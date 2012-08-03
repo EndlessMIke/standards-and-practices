@@ -89,6 +89,7 @@ Format:
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
+| Mike H.| [EndlessMIke](https://github.com/EndlessMIke) | Learning Python - know the utmost basics of a few languages. |
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | thearrowflies | [ngbmameman](https://github.com/ngbmameman) | Experience with C++, Java, and learning Python. |
 | Norman King | [generalram] (https://github.com/generalram) ||
